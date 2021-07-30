@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jekkalou
-- 👀 I’m interested in computer science and art
-- 🌱 I’m currently learning computer science, art and history
+- 🎆 I’m interested in computer science and art
+- ✨ I’m currently learning computer science, art and history
 
 
 <!---
